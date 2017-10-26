@@ -66,7 +66,9 @@ prerender.crawlerUserAgents = [
   'Discordbot',
   'Google Page Speed',
   'Qwantify',
-	'pinterestbot'
+  'pinterestbot',
+  'SemrushBot',
+  'SemrushBot-SA'
 ];
 
 
